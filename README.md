@@ -12,5 +12,10 @@ Developing a secure backend system that leverages the Feistel cipher—a symmetr
 - a simple functional chat app has been built with basic frontend UI.
 - code for encryption and decryption of the chat messages being transmitted is still in progress.
 
+# Requirements 
+you would need to install express and socket.io to run the code.
+-follow the following commands:-
+npm install express socket.io --save
+
 # Launch the project
 Run server.js in terminal and open up localhost:5000 in a web browser.
