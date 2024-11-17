@@ -9,8 +9,7 @@ Developing a secure backend system that leverages the Feistel cipher—a symmetr
 * Samridh Ramesha 22bcs107
 
 # Project status
-- a simple functional chat app has been built with basic frontend UI.
-- code for encryption and decryption of the chat messages being transmitted is still in progress.
+- Project Complete
 
 # Requirements 
 you would need to install express and socket.io to run the code.
